@@ -1,1 +1,5 @@
-
+广东组播,#genre#
+广东卫视,http://sslsz.oceaniwork.com:4022/rtp/239.77.0.2:5146
+广东卫视,http://sslsz.oceaniwork.com:4022/rtp/239.77.1.2:5146
+广东卫视高清,http://sslsz.oceaniwork.com:4022/rtp/239.77.1.19:5146
+广东卫视高清,http://sslsz.oceaniwork.com:4022/rtp/239.77.1.152:5146
